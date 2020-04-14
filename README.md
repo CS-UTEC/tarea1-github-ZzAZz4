@@ -1,2 +1,4 @@
-# Esteban Villacorta Garcia
-#### 201910336
+| Nombres y apellidos | Codigo |
+| ------------- | ------------- |
+| Esteban Villacorta Garcia | 201910336 |
+
